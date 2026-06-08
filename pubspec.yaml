@@ -1,0 +1,22 @@
+name: animal_health_app
+description: AI-Powered Livestock Health Platform
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_generative_ai: ^0.4.3
+  flutter_blue_plus: ^1.31.9
+  fl_chart: ^0.68.0
+  geolocator: ^11.0.0
+  shared_preferences: ^2.2.3
+  local_auth: ^2.1.8
+  intl: ^0.19.0
+  permission_handler: ^11.3.0
+  flutter_local_notifications: ^17.0.0
+  uuid: ^4.4.0
+
+flutter:
+  uses-material-design: true
