@@ -2,7 +2,7 @@
 
 **AI-Powered Livestock Health Platform**
 
-HerdWise is a cross-platform Flutter application designed to help farmers, veterinarians, and livestock managers monitor and manage animal health intelligently — combining AI diagnostics, IoT sensor integration, geolocation, and offline-friendly design in one unified platform.
+HerdWise is a cross-platform Flutter vibe coded application designed to help farmers, veterinarians, and livestock managers monitor and manage animal health intelligently — combining AI diagnostics, IoT sensor integration, geolocation, and offline-friendly design in one unified platform.
 
 ---
 ## UI
